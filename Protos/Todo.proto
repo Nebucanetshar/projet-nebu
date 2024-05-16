@@ -1,0 +1,66 @@
+syntax = "proto3";
+
+option csharp_namespace = "grpcGreeter";
+
+package todoit;
+
+service TodoIt
+{
+    rpc CreateTodo(CreateTodoRequest) returns (CreateTodoResponse){}
+
+    rpc ReadTodo(ReadTodoRequest) returns (ReadTodoResponse){}
+
+    rpc ListTodo(GetAllRequest) returns (GetAllResponse){}
+
+    rpc DeleteTodo(DeleteTodoRequest) returns (DeleteTodoResponse){}
+
+    rpc UpdateTodo(UpdateTodoRequest) returns (UpdateTodoResponse){}
+}
+
+message CreateTodoRequest{
+    string title =1;
+    string Description=2;
+}
+
+message CreateTodoResponse{
+    int32 id=1;
+}
+
+message ReadTodoRequest{
+    int32 id=1;
+}
+
+message ReadTodoResponse{
+    int32 id=1;
+    string title=2;
+    string Description=3;
+    string to_do_status=4;
+}
+
+message GetAllRequest{}
+
+message GetAllResponse{
+    repeated ReadTodoResponse to_do=1;
+}
+
+message UpdateTodoRequest{
+    int32 id=1;
+    string title=2;
+    string Description=3;
+    string to_do_status=4;
+}
+
+message UpdateTodoResponse{
+    int32 id=1;
+}
+
+message DeleteTodoRequest{
+    int32 id=1;
+}
+
+message DeleteTodoResponse{
+    int32 id=1;
+}
+
+
+

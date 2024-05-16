@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/TodoIt.cs \
+obj\Debug\net8.0\Protos/TodoItGrpc.cs: Protos/TodoIt.proto

@@ -1,0 +1,18 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "PostgreSQL 16",
+            "database": "postgres",
+            "username": "postgres"
+        }
+    ],
+    "dataworkspace.excludedProjects": [
+        "Azure/TodoDataBase/TodoDataBase.sqlproj"
+    ]
+}
