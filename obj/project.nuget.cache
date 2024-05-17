@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkM7iOrGbBX37573S4yG4fET83y6H8jA9cekNspJloHaVmELMRGqadt7aBZ9ONnK6fU29qvdS1WF34MiTe9opg==",
+  "dgSpecHash": "kN1agqO7SoOdzp5UKeDFPKwJr/6nT/M3MzLbKx3FPBx/ZQEB0w4rlxIbXL5EZ5AiXW0WNFF9aPY7vBZoyxa3fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj",
+  "projectFilePath": "c:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

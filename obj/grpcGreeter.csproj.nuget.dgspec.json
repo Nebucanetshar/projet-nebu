@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj": {}
+    "c:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj": {
+    "c:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj",
+        "projectUniqueName": "c:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj",
         "projectName": "grpcGreeter",
-        "projectPath": "C:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj",
+        "projectPath": "c:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\grpcGreeter.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\obj\\",
+        "outputPath": "c:\\Users\\user\\source\\VisualStudioCode\\grpcGreeter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
