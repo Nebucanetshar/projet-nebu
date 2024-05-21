@@ -1,4 +1,4 @@
-﻿namespace BlazorApp1.Request;
+﻿namespace BlazorApp1.Wrapper.Request;
 
 public class ExecuteQueryRequest
 {

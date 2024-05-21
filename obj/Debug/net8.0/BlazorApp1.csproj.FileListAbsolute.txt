@@ -1049,3 +1049,4 @@ c:\Users\user\source\VisualStudioCode\blazorAssembly\BlazorApp1\obj\Debug\net8.0
 c:\Users\user\source\VisualStudioCode\blazorAssembly\BlazorApp1\obj\Debug\net8.0\compressed\z47mlurvwm.gz
 c:\Users\user\source\VisualStudioCode\blazorAssembly\BlazorApp1\obj\Debug\net8.0\compressed\tjzi957moj.gz
 c:\Users\user\source\VisualStudioCode\blazorAssembly\BlazorApp1\obj\Debug\net8.0\compressed\zqt68g5k29.gz
+c:\Users\user\source\VisualStudioCode\blazorAssembly\BlazorApp1\obj\Debug\net8.0\BlazorApp1.sourcelink.json

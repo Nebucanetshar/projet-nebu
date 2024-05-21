@@ -19,10 +19,13 @@ public class CounterActionOutput
 
 public class CounterActionInput
 {
+    public CounterViewModel Content { get; }
     public string counter {get; set;}
 
     public CounterActionInput (string counter)
     {
         this.counter = counter;
     }
+
+    
 }
