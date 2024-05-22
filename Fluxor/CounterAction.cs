@@ -3,8 +3,8 @@ namespace BlazorApp1.Fluxor;
 
 public class CounterActionOutput
 {
-    public ResultResponseViewModel ResponseServer;
-    public CounterViewModel Content { get; }
+    public ResultResponseViewModel ?ResponseServer;
+    public CounterViewModel ?Content { get; }
 
     public CounterActionOutput(ResultResponseViewModel responseServer)
     {
