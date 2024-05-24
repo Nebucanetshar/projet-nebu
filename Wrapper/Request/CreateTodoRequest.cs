@@ -1,9 +1,9 @@
 ﻿namespace BlazorApp1.Wrapper.Request;
 
-public class ExecuteQueryRequest
+public partial class CreateTodoRequest
 {
     public readonly string Sql;
-     public ExecuteQueryRequest(string sql)
+     public CreateTodoRequest(string sql)
     {
         Sql = sql;
     }
