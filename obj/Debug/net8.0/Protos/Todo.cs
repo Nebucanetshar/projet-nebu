@@ -27,30 +27,30 @@ namespace grpcGreeter {
             "ChFQcm90b3MvVG9kby5wcm90bxIGdG9kb2l0IjcKEUNyZWF0ZVRvZG9SZXF1",
             "ZXN0Eg0KBXRpdGxlGAEgASgJEhMKC0Rlc2NyaXB0aW9uGAIgASgJIiAKEkNy",
             "ZWF0ZVRvZG9SZXNwb25zZRIKCgJpZBgBIAEoBSIdCg9SZWFkVG9kb1JlcXVl",
-            "c3QSCgoCaWQYASABKAUiWAoQUmVhZFRvZG9SZXNwb25zZRIKCgJpZBgBIAEo",
-            "BRINCgV0aXRsZRgCIAEoCRITCgtEZXNjcmlwdGlvbhgDIAEoCRIUCgx0b19k",
-            "b19zdGF0dXMYBCABKAkiDwoNR2V0QWxsUmVxdWVzdCI5Cg5HZXRBbGxSZXNw",
-            "b25zZRInCgV0b19kbxgBIAMoCzIYLnRvZG9pdC5SZWFkVG9kb1Jlc3BvbnNl",
-            "IlkKEVVwZGF0ZVRvZG9SZXF1ZXN0EgoKAmlkGAEgASgFEg0KBXRpdGxlGAIg",
-            "ASgJEhMKC0Rlc2NyaXB0aW9uGAMgASgJEhQKDHRvX2RvX3N0YXR1cxgEIAEo",
-            "CSIgChJVcGRhdGVUb2RvUmVzcG9uc2USCgoCaWQYASABKAUiHwoRRGVsZXRl",
-            "VG9kb1JlcXVlc3QSCgoCaWQYASABKAUiIAoSRGVsZXRlVG9kb1Jlc3BvbnNl",
-            "EgoKAmlkGAEgASgFMtsCCgZUb2RvSXQSRQoKQ3JlYXRlVG9kbxIZLnRvZG9p",
-            "dC5DcmVhdGVUb2RvUmVxdWVzdBoaLnRvZG9pdC5DcmVhdGVUb2RvUmVzcG9u",
-            "c2UiABI/CghSZWFkVG9kbxIXLnRvZG9pdC5SZWFkVG9kb1JlcXVlc3QaGC50",
-            "b2RvaXQuUmVhZFRvZG9SZXNwb25zZSIAEjsKCExpc3RUb2RvEhUudG9kb2l0",
-            "LkdldEFsbFJlcXVlc3QaFi50b2RvaXQuR2V0QWxsUmVzcG9uc2UiABJFCgpE",
-            "ZWxldGVUb2RvEhkudG9kb2l0LkRlbGV0ZVRvZG9SZXF1ZXN0GhoudG9kb2l0",
-            "LkRlbGV0ZVRvZG9SZXNwb25zZSIAEkUKClVwZGF0ZVRvZG8SGS50b2RvaXQu",
-            "VXBkYXRlVG9kb1JlcXVlc3QaGi50b2RvaXQuVXBkYXRlVG9kb1Jlc3BvbnNl",
-            "IgBCDqoCC2dycGNHcmVldGVyYgZwcm90bzM="));
+            "c3QSCgoCaWQYASABKAUiQgoQUmVhZFRvZG9SZXNwb25zZRIKCgJpZBgBIAEo",
+            "BRINCgV0aXRsZRgCIAEoCRITCgtEZXNjcmlwdGlvbhgDIAEoCSIPCg1HZXRB",
+            "bGxSZXF1ZXN0IjkKDkdldEFsbFJlc3BvbnNlEicKBXRvX2RvGAEgAygLMhgu",
+            "dG9kb2l0LlJlYWRUb2RvUmVzcG9uc2UiWQoRVXBkYXRlVG9kb1JlcXVlc3QS",
+            "CgoCaWQYASABKAUSDQoFdGl0bGUYAiABKAkSEwoLRGVzY3JpcHRpb24YAyAB",
+            "KAkSFAoMdG9fZG9fc3RhdHVzGAQgASgJIiAKElVwZGF0ZVRvZG9SZXNwb25z",
+            "ZRIKCgJpZBgBIAEoBSIfChFEZWxldGVUb2RvUmVxdWVzdBIKCgJpZBgBIAEo",
+            "BSIgChJEZWxldGVUb2RvUmVzcG9uc2USCgoCaWQYASABKAUy2wIKBlRvZG9J",
+            "dBJFCgpDcmVhdGVUb2RvEhkudG9kb2l0LkNyZWF0ZVRvZG9SZXF1ZXN0Ghou",
+            "dG9kb2l0LkNyZWF0ZVRvZG9SZXNwb25zZSIAEj8KCFJlYWRUb2RvEhcudG9k",
+            "b2l0LlJlYWRUb2RvUmVxdWVzdBoYLnRvZG9pdC5SZWFkVG9kb1Jlc3BvbnNl",
+            "IgASOwoITGlzdFRvZG8SFS50b2RvaXQuR2V0QWxsUmVxdWVzdBoWLnRvZG9p",
+            "dC5HZXRBbGxSZXNwb25zZSIAEkUKCkRlbGV0ZVRvZG8SGS50b2RvaXQuRGVs",
+            "ZXRlVG9kb1JlcXVlc3QaGi50b2RvaXQuRGVsZXRlVG9kb1Jlc3BvbnNlIgAS",
+            "RQoKVXBkYXRlVG9kbxIZLnRvZG9pdC5VcGRhdGVUb2RvUmVxdWVzdBoaLnRv",
+            "ZG9pdC5VcGRhdGVUb2RvUmVzcG9uc2UiAEIOqgILZ3JwY0dyZWV0ZXJiBnBy",
+            "b3RvMw=="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.CreateTodoRequest), global::grpcGreeter.CreateTodoRequest.Parser, new[]{ "Title", "Description" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.CreateTodoResponse), global::grpcGreeter.CreateTodoResponse.Parser, new[]{ "Id" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.ReadTodoRequest), global::grpcGreeter.ReadTodoRequest.Parser, new[]{ "Id" }, null, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.ReadTodoResponse), global::grpcGreeter.ReadTodoResponse.Parser, new[]{ "Id", "Title", "Description", "ToDoStatus" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.ReadTodoResponse), global::grpcGreeter.ReadTodoResponse.Parser, new[]{ "Id", "Title", "Description" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.GetAllRequest), global::grpcGreeter.GetAllRequest.Parser, null, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.GetAllResponse), global::grpcGreeter.GetAllResponse.Parser, new[]{ "ToDo" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::grpcGreeter.UpdateTodoRequest), global::grpcGreeter.UpdateTodoRequest.Parser, new[]{ "Id", "Title", "Description", "ToDoStatus" }, null, null, null, null),
@@ -708,7 +708,6 @@ namespace grpcGreeter {
       id_ = other.id_;
       title_ = other.title_;
       description_ = other.description_;
-      toDoStatus_ = other.toDoStatus_;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -754,18 +753,6 @@ namespace grpcGreeter {
       }
     }
 
-    /// <summary>Field number for the "to_do_status" field.</summary>
-    public const int ToDoStatusFieldNumber = 4;
-    private string toDoStatus_ = "";
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
-    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public string ToDoStatus {
-      get { return toDoStatus_; }
-      set {
-        toDoStatus_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
-      }
-    }
-
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -784,7 +771,6 @@ namespace grpcGreeter {
       if (Id != other.Id) return false;
       if (Title != other.Title) return false;
       if (Description != other.Description) return false;
-      if (ToDoStatus != other.ToDoStatus) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -795,7 +781,6 @@ namespace grpcGreeter {
       if (Id != 0) hash ^= Id.GetHashCode();
       if (Title.Length != 0) hash ^= Title.GetHashCode();
       if (Description.Length != 0) hash ^= Description.GetHashCode();
-      if (ToDoStatus.Length != 0) hash ^= ToDoStatus.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -826,10 +811,6 @@ namespace grpcGreeter {
         output.WriteRawTag(26);
         output.WriteString(Description);
       }
-      if (ToDoStatus.Length != 0) {
-        output.WriteRawTag(34);
-        output.WriteString(ToDoStatus);
-      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -852,10 +833,6 @@ namespace grpcGreeter {
         output.WriteRawTag(26);
         output.WriteString(Description);
       }
-      if (ToDoStatus.Length != 0) {
-        output.WriteRawTag(34);
-        output.WriteString(ToDoStatus);
-      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -874,9 +851,6 @@ namespace grpcGreeter {
       }
       if (Description.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(Description);
-      }
-      if (ToDoStatus.Length != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeStringSize(ToDoStatus);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -898,9 +872,6 @@ namespace grpcGreeter {
       }
       if (other.Description.Length != 0) {
         Description = other.Description;
-      }
-      if (other.ToDoStatus.Length != 0) {
-        ToDoStatus = other.ToDoStatus;
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -929,10 +900,6 @@ namespace grpcGreeter {
             Description = input.ReadString();
             break;
           }
-          case 34: {
-            ToDoStatus = input.ReadString();
-            break;
-          }
         }
       }
     #endif
@@ -958,10 +925,6 @@ namespace grpcGreeter {
           }
           case 26: {
             Description = input.ReadString();
-            break;
-          }
-          case 34: {
-            ToDoStatus = input.ReadString();
             break;
           }
         }

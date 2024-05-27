@@ -34,7 +34,7 @@ message ReadTodoResponse{
     int32 id=1;
     string title=2;
     string Description=3;
-    string to_do_status=4;
+    
 }
 
 message GetAllRequest{}

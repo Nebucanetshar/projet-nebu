@@ -22,8 +22,6 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="microsoft.entityFrameworkCore" Version="8.0.3" />
-    <PackageReference Include="microsoft.entityFrameworkCore.sqlite" Version="8.0.3" />
-    <PackageReference Include="microsoft.entityFrameworkCore.sqlServer" Version="8.0.3" />
     <PackageReference Include="microsoft.entityFrameworkCore.Tools" Version="8.0.3">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
