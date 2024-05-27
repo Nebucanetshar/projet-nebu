@@ -15,7 +15,7 @@ public class CounterEffet
     [EffectMethod]
     public async Task ExecuteEffet(CounterActionInput action, IDispatcher dispatcher)
     {
-        var responseWrapper = await grpcCounterServiceClient.FirstWrapper(action.counter);
+        var responseWrapper = await grpcCounterServiceClient.CreateTodo(action.counter);
         
         dispatcher.Dispatch(new CounterActionOutput(responseWrapper.Content));
     }
